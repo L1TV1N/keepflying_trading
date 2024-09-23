@@ -1,7 +1,7 @@
 # keepflying_trading
 ***Установка Pycharm***
 
-1. Установка **Python 3.12.1** - https://www.python.org/ftp/python/3.9/python-3.9-amd64.exe
+1. Установка **Python 3.9** - [https://www.python.org/ftp/python/3.9/python-3.9-amd64.exe](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe)
 2. Установка **Pycharm Community Edition** -
    https://www.jetbrains.com/ru-ru/pycharm/download/download-thanks.html?platform=windows&code=PCC
 
@@ -19,7 +19,7 @@
 5. Создадим новый проект, нажав **New Project**:
  ![08393230012023_bd473197c461193ea9b6d317f4c236910d065887](https://github.com/L1TV1N/Post_Genertor/assets/98161411/e864562b-d0a8-4f73-8bb4-ea14126e0b16)
 
-6. Нажмём на кнопку **Create** и создадим проект, после чего он сразу же откроется. (Обязательная версия Python **3.12.1**)
+6. Нажмём на кнопку **Create** и создадим проект, после чего он сразу же откроется. (Обязательная версия Python **3.9**)
 ![08393230012023_e3039f248dd555899a396179b51a05be377f9973](https://github.com/L1TV1N/Post_Genertor/assets/98161411/c07fb967-f7d9-4758-8c72-a83bbd651029)
 
 
