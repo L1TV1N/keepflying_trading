@@ -1,4 +1,4 @@
-# Post Generator
+# keepflying_trading
 
 ***Установка Pycharm***
 
