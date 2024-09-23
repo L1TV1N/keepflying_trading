@@ -1,7 +1,7 @@
 # keepflying_trading
 ***Установка Pycharm***
 
-1. Установка **Python 3.12.1** - https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe
+1. Установка **Python 3.12.1** - https://www.python.org/ftp/python/3.9/python-3.9-amd64.exe
 2. Установка **Pycharm Community Edition** -
    https://www.jetbrains.com/ru-ru/pycharm/download/download-thanks.html?platform=windows&code=PCC
 
