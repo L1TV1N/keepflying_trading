@@ -53,7 +53,8 @@
 
 https://github.com/user-attachments/assets/3edd91d6-e741-49ab-ab5a-735eebe739b2
 
-
+4. Запускаем **script.py**
+   
 
 
 
