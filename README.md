@@ -45,4 +45,11 @@
    ![image](https://github.com/user-attachments/assets/74eb9fce-f24d-4ee0-bdbe-e595091d1307)
    ![image](https://github.com/user-attachments/assets/34ad60ce-27de-4883-bee5-415dd7297292)
 
+2. У нас открывается окно для калибровки
+   ![image](https://github.com/user-attachments/assets/f85837d9-3b55-447a-8bb4-b11f71573d2f)
+
+3. Повторяем все действия в точности как на видео
+   
+
+
 
