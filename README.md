@@ -48,7 +48,7 @@
 2. У нас открывается окно для калибровки
    ![image](https://github.com/user-attachments/assets/f85837d9-3b55-447a-8bb4-b11f71573d2f)
 
-3. Повторяем все действия в точности как на видео
+3. Повторяем все действия в точности как на видео:
    
 
 https://github.com/user-attachments/assets/3edd91d6-e741-49ab-ab5a-735eebe739b2
