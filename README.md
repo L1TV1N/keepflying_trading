@@ -37,3 +37,12 @@
    cd keepflying_trading
    pip install -r requirements.txt
    ```
+
+# ***Калибровка***
+
+1. Кликаем правой кнопкой мыши по файлу **calibration.py** и нажимаем кнопку ![image](https://github.com/user-attachments/assets/f4b53bf7-79df-419c-ace0-f9da10f980d4)
+
+   ![image](https://github.com/user-attachments/assets/74eb9fce-f24d-4ee0-bdbe-e595091d1307)
+   ![image](https://github.com/user-attachments/assets/34ad60ce-27de-4883-bee5-415dd7297292)
+
+
