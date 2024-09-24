@@ -51,5 +51,9 @@
 3. Повторяем все действия в точности как на видео
    
 
+https://github.com/user-attachments/assets/3edd91d6-e741-49ab-ab5a-735eebe739b2
+
+
+
 
 
