@@ -4,9 +4,9 @@
 
 1. Установка **Python 3.9** - [https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe)
 2. Установка **Git** - https://github.com/git-for-windows/git/releases/download/v2.46.2.windows.1/Git-2.46.2-64-bit.exe
-3. Установка **Pycharm Community Edition** -
+3. Установка **tesseract** - https://github.com/UB-Mannheim/tesseract/releases/download/v5.4.0.20240606/tesseract-ocr-w64-setup-5.4.0.20240606.exe 
+4. Установка **Pycharm Community Edition** -
    [https://www.jetbrains.com/ru-ru/pycharm/download/download-thanks.html?platform=windows&code=PCC](https://download.jetbrains.com/python/pycharm-community-2024.2.2.exe?_gl=1*ob5qfe*_gcl_au*MTMwNDM2NTg1MC4xNzIyNTQ5ODQw*_ga*NzU0NTc0NTcyLjE2OTMzMjYxNDU.*_ga_9J976DJZ68*MTcyNzE5OTE1OC4yMS4wLjE3MjcxOTkxNTkuNTkuMC4w)
-4. Установка **tesseract** - https://github.com/UB-Mannheim/tesseract/releases/download/v5.4.0.20240606/tesseract-ocr-w64-setup-5.4.0.20240606.exe
 
 5. Запустить установщик, следовать его инструкциям, выбрать нужные параметры -
    
